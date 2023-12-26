@@ -48,22 +48,6 @@
 		011198C925A52BAC00FC9926 = {
 			isa = PBXGroup;
 			children = (
-				011198D425A52BAC00FC9926 /* SoloSet */,
-				011198D325A52BAC00FC9926 /* Products */,
-			);
-			sourceTree = "<group>";
-		};
-		011198D325A52BAC00FC9926 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				011198D225A52BAC00FC9926 /* SoloSet.app */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		011198D425A52BAC00FC9926 /* SoloSet */ = {
-			isa = PBXGroup;
-			children = (
 				011198E525A52BE800FC9926 /* SoloSetGame.swift */,
 				011198E825A52C2900FC9926 /* ViewModel.swift */,
 				011198D725A52BAC00FC9926 /* ContentView.swift */,
@@ -75,8 +59,16 @@
 				011198D925A52BAF00FC9926 /* Assets.xcassets */,
 				011198DE25A52BAF00FC9926 /* Info.plist */,
 				011198DB25A52BAF00FC9926 /* Preview Content */,
+				011198D325A52BAC00FC9926 /* Products */,
 			);
-			path = SoloSet;
+			sourceTree = "<group>";
+		};
+		011198D325A52BAC00FC9926 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				011198D225A52BAC00FC9926 /* SoloSet.app */,
+			);
+			name = Products;
 			sourceTree = "<group>";
 		};
 		011198DB25A52BAF00FC9926 /* Preview Content */ = {
